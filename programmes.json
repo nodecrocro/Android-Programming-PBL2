@@ -1,0 +1,166 @@
+{
+  "institution": "German-Malaysian Institute",
+  "last_updated": "2026-10-07",
+
+  "diploma": [
+    {
+      "name": "Diploma of Mechatronics Engineering Technology",
+      "category": "Electrical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/electrical-engineering/mechatronics/"
+    },
+    {
+      "name": "Diploma in Engineering Technology (Instrumentation and Control)",
+      "category": "Electrical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/electrical-engineering/"
+    },
+    {
+      "name": "Diploma of Electronics Engineering Technology (Computer)",
+      "category": "Electrical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/electrical-engineering/electric-information-technology/"
+    },
+    {
+      "name": "Diploma in Autotronics Engineering Technology",
+      "category": "Electrical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/electrical-engineering/"
+    },
+    {
+      "name": "Diploma in Engineering Technology (Sustainable Energy and Power Distribution)",
+      "category": "Electrical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/electrical-engineering/"
+    },
+
+    {
+      "name": "Diploma in Precision Tooling Engineering Technology",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/"
+    },
+    {
+      "name": "Diploma in Engineering Technology (Industrial Design)",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/"
+    },
+    {
+      "name": "Diploma in Industrial Quality Engineering Technology",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/industrial-quality-engineering/"
+    },
+    {
+      "name": "Diploma in Innovative Product Design Engineering Technology",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/innovative-product-design/"
+    },
+    {
+      "name": "Diploma of Mechanical Engineering Technology (CNC Precision)",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/"
+    },
+    {
+      "name": "Diploma in Engineering Technology (Machine Tools Maintenance)",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/machine-tools-maintenance/"
+    },
+    {
+      "name": "Diploma of Mechanical Engineering Technology (Manufacturing)",
+      "category": "Mechanical Engineering",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/mechanical-engineering/manufacturing-system/"
+    },
+
+    {
+      "name": "Diploma in Cyber Security Technology",
+      "category": "Computer & Information",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/computer-and-information/cyber-security-technology/"
+    },
+    {
+      "name": "Diploma in Software Engineering",
+      "category": "Computer & Information",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/computer-and-information/software-engineering/"
+    },
+    {
+      "name": "Diploma in Creative Multimedia",
+      "category": "Computer & Information",
+      "study_mode": "Full Time",
+      "duration": "6 Semesters / 3 Years",
+      "fee": "RM 33,324",
+      "status": "Accredited",
+      "website": "https://www.gmi.edu.my/computer-and-information/creative-multimedia/"
+    }
+  ],
+
+  "gapp": [
+    {
+      "name": "German A Levels Preparatory Programme (GAPP)",
+      "category": "Pre-University",
+      "duration": "4 Semesters",
+      "fee": "RM 40,000",
+      "description": "Preparatory programme for students who plan to continue studies in Germany.",
+      "website": "https://www.gmi.edu.my/pre-university-programme/german-a-level-preparatory-programme-gapp/"
+    }
+  ],
+
+  "gufp": [
+    {
+      "name": "GMI-UTP Foundation Programme (GUFP)",
+      "category": "Foundation",
+      "programme": "Foundation in Engineering and Science",
+      "duration": "1 Year",
+      "description": "Foundation programme offered through collaboration between German-Malaysian Institute and Universiti Teknologi PETRONAS.",
+      "website": "https://www.gmi.edu.my/gmi-utp-foundation-studies-programme/"
+    }
+  ]
+}
